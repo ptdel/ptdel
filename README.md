@@ -1,5 +1,7 @@
-## Hi there 👋
+## Full-Stack Developer | Software Engineer
+![CodeWars](https://www.codewars.com/users/ptdel/badges/large)
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-delaney-53191847)
 <!--
 **ptdel/ptdel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
