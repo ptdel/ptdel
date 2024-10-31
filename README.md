@@ -1,7 +1,6 @@
 ## Full-Stack Developer | Software Engineer
 
-I've migrated all of my repositories off of GitHub, please reach out to me on 
-[Linkedin](https://www.linkedin.com/in/patrick-delaney-53191847)
+I've migrated all of my repositories off of GitHub, please reach out to me via email.
 
 [Git Email Patch Tutorial](https://git-send-email.io/)
 
